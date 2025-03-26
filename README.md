@@ -42,5 +42,5 @@ A simple chatbot designed to assist with medical queries and manage patient reco
 - Implement cloud-based data storage.
 
 ## Contributors
-Developed by **Harsha**. Open to improvements and modifications.
+Developed by with help Ai and dears friends. Open to improvements and modifications.
 
